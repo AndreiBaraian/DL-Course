@@ -1,2 +1,7 @@
 /Lectures
 /.idea
+/training
+/val
+/tb_graphs*
+*.pth
+/assignment4/assignment4/tb_graphs
